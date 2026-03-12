@@ -9,8 +9,8 @@ A production-structured **Employee Management System** REST API built with:
 
 | Layer | Technology |
 |-------|------------|
-| Language | Java 17 |
-| Framework | Spring Boot 3.2 |
+| Language | Java 25 |
+| Framework | Spring Boot 4.0.2 |
 | Database Access | Spring JDBC (JdbcTemplate – **no ORM / JPA**) |
 | Database | MySQL 8 |
 | Connection Pool | HikariCP |
