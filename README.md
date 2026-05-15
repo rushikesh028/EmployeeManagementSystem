@@ -25,7 +25,7 @@ A production-structured **Employee Management System** REST API built with:
 employee-management-system/
 ├── src/
 │   ├── main/
-│   │   ├── java/com/ems/
+│   │   ├── java/com/email/
 │   │   │   ├── EmployeeManagementApplication.java   ← Main class
 │   │   │   ├── model/
 │   │   │   │   ├── Employee.java                    ← Employee POJO
